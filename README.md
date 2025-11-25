@@ -22,28 +22,14 @@ I believe in **getting things done** while fostering collaboration, innovation, 
 ### Technical Competencies
 
 #### AI/ML & GenAI
-- **AI-Powered Solutions**: Building and managing products leveraging artificial intelligence for threat detection and security automation
+- **AI-Powered Products**: Building and managing products leveraging artificial intelligence for threat detection and security automation
 - **Machine Learning**: Experience with ML-driven analytics, pattern recognition, and predictive modeling
-- **Generative AI**: Utilizing GenAI tools for productivity, content generation, code assistance, and enhanced product capabilities
+- **Generative AI/LLMs**: Utilizing GenAI tools for productivity, content generation, code assistance, and enhanced product capabilities
 - **AI Product Strategy**: Designing AI-first features, evaluating AI/ML models, and integrating intelligent capabilities into enterprise software
 - **Continuous Discovery with AI**: Leveraging AI tools to accelerate user research, analyze customer interviews, and identify opportunity patterns
-- **Rapid Prototyping**: Building quick AI-enhanced prototypes to test assumptions and validate ideas before full development
+- **Rapid Prototyping**: Building quick AI-enhanced prototypes (vibecode) to test assumptions and validate ideas before full development
 - **AI-Assisted Research**: Using GenAI for competitive analysis, market research, and synthesizing customer feedback at scale
 - **Assumption Testing**: Applying AI to quickly validate hypotheses, run experiments, and gather evidence for decision-making
-- **Opportunity Solution Trees**: Mapping customer needs and AI-driven solutions to desired outcomes
-
-#### Core Technologies
-- **Cybersecurity Expertise**: AI-powered threat detection, risk management, security compliance
-- **Enterprise Software**: SaaS platforms, enterprise architecture, scalable systems
-- **Technical Stack**: JavaScript, MySQL, Oracle, MS SQL
-- **Infrastructure Management**: Apache Webserver, Tomcat, database administration
-- **Development**: Application prototyping, UI/UX design, functional specifications
-- **Systems Administration**: Web server configuration, database management, network infrastructure
-
-### Industry Knowledge
-- **Security & Compliance**: Advisory board participation with 150+ industry leaders, regulators, and researchers
-- **Information Sharing**: Collaborating on innovation, emerging standards, and case studies
-- **Risk Management**: Certified in Cybersecurity: Managing Risk in the Information Age
 
 ### Leadership & Soft Skills
 - **Operational Excellence**: 20+ years managing operations, scaling systems, and driving efficiency
@@ -73,20 +59,6 @@ For over two decades, I've dedicated myself to building and leading **Khalis Fou
 - Stakeholder engagement and fundraising
 - Cross-cultural collaboration and community building
 - Sustainable growth and scalability
-
----
-
-## Industry Engagement
-
-### VigiTrust | Global Advisory Board Member (2022 - Present)
-
-Contributing to the security and compliance industry through thought leadership and collaboration with 150+ CEOs, CxOs, board members, regulators, and researchers.
-
-**Focus Areas:**
-- Information sharing on emerging threats and innovations
-- Discussing industry direction, upcoming laws, and standards
-- Analyzing case studies and research on security best practices
-- Fostering collaboration across enforcement bodies and key stakeholders
 
 ---
 
